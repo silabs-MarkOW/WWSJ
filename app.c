@@ -1,11 +1,6 @@
 /***************************************************************************//**
- * @file
- * @brief Core application logic.
- *******************************************************************************
- * # License
- * <b>Copyright 2020 Silicon Laboratories Inc. www.silabs.com</b>
- *******************************************************************************
- *
+ * This is the app.c from WWSJ *
+ *******************************
  * SPDX-License-Identifier: Zlib
  *
  * The licensor of this software is Silicon Laboratories Inc.
